@@ -1,0 +1,5 @@
+The internet is more of a foundation of protocols that connect to different networks. Where the web is the web sites that are sitting on the foundation to pass info across.
+The internet works by the connections of routers that are then connected to different sub networks.
+A directory is what is used to organize the search of files.
+VCS is a streamlined way to figure out subtle differences in your work.
+This whole thing is interesting because it is not in the field I am studying but am curious, I also found the difference between the internet and wed very interesting.
