@@ -1,0 +1,2 @@
+My Responses:
+There are a ton of levels of how data travels across the internet but it is all varied by bytes and things called packets that have info.
