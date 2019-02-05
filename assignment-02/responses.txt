@@ -1,2 +1,5 @@
 My Responses:
 There are a ton of levels of how data travels across the internet but it is all varied by bytes and things called packets that have info.
+The IP is directly associated to any computer like a street address and the DNS is a hub that you visit.
+A cookie is more like a crumb you left behind from visiting a website. That is stored on your computer.
+The protocol, the domain name, and the path.
