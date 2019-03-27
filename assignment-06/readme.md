@@ -1,0 +1,3 @@
+Describe any forms you've come across while browsing the web. What purposes do the serve? The main one I have seen is when eCommerce's companies ask for your info when you first open up the site or when you are checking out.  It opens up a sites ability to reach customers that are interested in their products. Like the new age of mailers sent out.
+List examples of a text, selection, and button input, and where they might be used. text that describes a product and naming convention. Button input for actual interaction of the website and make it feel more fluid.
+Free Response: Summarize your work cycle for this assignment. I did a outline like I do when writing a paper. Makes it so I can just enter in the specifics once I have worked through intricate parts.

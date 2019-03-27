@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+
+    <!-- Page information -->
+    <meta charset="utf-8">
+    <meta name="description" content="This is the contact page for company named Local Marketing Group">
+    <meta name="author" content="Hayden Phillips">
+    <meta name="viewport" content="width=device-width, initia-scale=1.5">
+
+    <!-- Page Style -->
+    <style>
+      #center-wrapper {
+        position: relative;
+        text-align: center;
+      }
+      table, th, td {
+        border: 1px solid blue;
+        padding: 6px;
+      }
+      #center-table {
+        width:70%;
+        margin-left:15%;
+        margin-right:15%;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: solid black;
+      }
+      li {
+        float: left;
+      }
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      li a:hover {
+        background-color: #000000;
+      }
+    </style>
+
+    <!-- Title of the page -->
+    <title>Local Marketing Group Contact Page</title>
+
+  </head>
+
+  <body id="center-wrapper">
+
+    <!-- Navigation -->
+    <ul>
+      <li><a href="./index.html">Home</a></li>
+      <li><a href="./about.html">About</a></li>
+      <li><a href="./contact.html">Contact</a></li>
+    </ul>
+
+    <!-- Contact Page -->
+    <h1>Contact L.M.G</h1>
+
+    <!-- Address -->
+    <h3>LOCATION</h3>
+    <address>
+      1550 Milwaukee way st 303,<br>
+      Missoula, MT 59801<br>
+      406.459.5453<br>
+    </address>
+    <a href="mailto:contact@localmarketinggroup.net">Email us!</a>
+
+    <!-- Hours -->
+    <h3>HOURS</h3>
+    <table id="center-table">
+      <tr>
+        <th>MONDAY</th>
+        <th>TUESDAY</th>
+        <th>WEDNESDAY</th>
+        <th>THURSDAY</th>
+        <th>FRIDAY</th>
+        <th>SATURDAY</th>
+        <th>SUNDAY</th>
+      </tr>
+      <tr>
+        <th>8AM-9PM</th>
+        <th>8AM-9PM</th>
+        <th>8AM-9PM</th>
+        <th>8AM-9PM</th>
+        <th>8AM-9PM</th>
+        <th>8AM-9PM</th>
+        <th>8AM-9PM</th>
+    </table>
+
+    <!-- Contact Form -->
+    <form action="http://www.example.com/login.php method="post" id="Contact" class="basic-forms">
+      <p>NAME</p>
+        <input type="text" name="name" id="name" autofocus/>
+      <p>EMAIL</p>
+        <input type="text" name="email" id="email" autofocus/>
+      <p>Products</p>
+        <input type="radio" name="website" value="website"/> WEBSITE
+        <br />
+        <input type="radio" name="managment hub" value="managment hub"/> MANAGMENT HUB
+        <br />
+        <input type="radio" name="bundle" value="bundle"/> BUNDLE
+        <br />
+        <input type="radio" name="seo" value="seo"/> SEO
+        <br />
+      <p>COMMENT</p>
+        <textarea name="comment" id="comment">Comments</textarea>
+      </p>
+      <input type="image" src="./images/submit_button.jpg" alt="submit button" width="80"/>
+    </form>
+  </body>
+</html>
