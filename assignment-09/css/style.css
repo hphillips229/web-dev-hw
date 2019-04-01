@@ -1,0 +1,47 @@
+/* Headings & Body */
+
+body {
+  font-family: sans-serif;
+  background-image: url("../images/color-1.jpg");
+  color: rgb(23, 171, 52);
+}
+
+h1{
+  font-style: oblique;
+  font-family: serif;
+  font-weight: bold;
+  padding: 20px
+}
+
+h2 {
+  background-color: rgb(8, 255, 58);
+  border: 2px rgb(16,18,17);
+  padding: 20px
+}
+
+/* Div */
+
+.class-title{
+  background-color: black;
+  width: 700px;
+  padding: 20px
+}
+
+.class-one{
+  background-color: rgb(53, 47, 233);
+  opacity: .9;
+  width: 700px;
+  padding: 20px
+
+}
+
+.class-two{
+  background-color: rgb(212, 38, 38);
+  opacity: .9;
+  width: 700px;
+  padding: 20px
+}
+
+.class-three{
+  position: inherit;
+}
