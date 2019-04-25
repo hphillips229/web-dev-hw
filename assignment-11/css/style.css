@@ -2,7 +2,16 @@
 body {
   text-align: left;
 /*art*/
+}
 
+#rectangle-1 {
+  float:inherit;
+  height: 140px;
+  width: 140px;
+  background-color: teal;
+  margin-top: auto;
+  z-index: auto;
+}
 
 }
 
