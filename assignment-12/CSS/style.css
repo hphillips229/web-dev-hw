@@ -1,0 +1,47 @@
+/* Headings & Body */
+
+body {
+  font-family: ariel;
+  background-color: green
+  color: rgb(23, 171, 52);
+}
+
+h1{
+  font-style: ariel;
+  font-family: ariel;
+  font-weight: bold;
+  padding: 20px
+}
+
+h2 {
+  background-color: rgb(green);
+  border: 2px rgb(black);
+  padding: 20px
+}
+
+/* Div */
+
+.class-title{
+  background-color: black;
+  width: 700px;
+  padding: 20px
+}
+
+.class-one{
+  background-color: rgb(Green);
+  opacity: .9;
+  width: 700px;
+  padding: 20px
+
+}
+
+.class-two{
+  background-color: rgb(yellow);
+  opacity: .9;
+  width: 700px;
+  padding: 20px
+}
+
+.class-three{
+  position: inherit;
+}
