@@ -1,153 +1,47 @@
-/*  header: */
-header {
-    background-color: #26272b;
-    font-family: sans-serif;
-    font-size: 10pt;
-    list-style-type:none;
-    text-transform: uppercase;
-    margin: 0;
-    padding: 0;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width:100%
-  }
-#index-header {
-  margin: 0;
-  padding: 0;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width:100%
-}
+/* Headings & Body */
 
-#about-header {
-  margin: 0;
-  padding: 0;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width:100%
-
-}
-
-#contact-header {
-  margin: 0;
-  padding: 0;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width:100%
-
-}
-
-#services-header{
-  margin: 0;
-  padding: 0;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width:100%
-
-}
-
-/* Body */
 body {
-   background-color: #ffffff;
-   background-repeat: repeat-x;
-   background-attachment: fixed;
- }
- .main-container {
-   background: rgb(#aa93d4);
-   border: 4px solid #607d8b;
-   position: center;
- }
- .secondary-container {
-   border: 4px solid ##b58907;
-   position: center;
- }
-
-
-
-/* menu: */
-/* JUSTINE deleted } found here */
-.item-menu {
-    margin: 0.5 0;
-    min-width: 5em;
-    text-align: center;
-    background-color: #c5c5c5;
-    padding: 11px 12px;
-    display: inline-block; /* JUSTINE to get all links to butt-up against each other */
+  font-family: sans-serif;
+  background-color: green;
+  color: rgb(23, 171, 52);
 }
 
-/* Style the links: */
-.item-menu a {
-    color: #000000;
-    text-decoration: none;
-}
-.item-menu:hover {
-    background-color: #2a5b73;
+h1{
+  font-style: oblique;
+  font-family: serif;
+  font-weight: bold;
+  padding: 20px
 }
 
-/* dropdown feature: */
-
-.dropdown {
-    display: inline-block;
-}
-.dropdown-content {
-    display: none;
-    position: absolute;
-    border: 1px solid #000;
-    /*margin: 150px;
-    margin-top: 0.5em;*/
-    color: #000;
-    background-color: #fff;
-    z-index: 1;
-
-    min-width: 11.5em;
-    margin-left: -12px; /* to account for the 12px of padding you have in .item-menu */
-    margin-top: 11px; /* to account for the 12px of padding you have in .item-menu */
-}
-.dropdown-content a {
-    color: #000;
-}
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-/* Style dropdown item display: */
-.dropdown-item {
-    display: block;
-    text-align: center;
-    margin: 0;
-    padding: 0.5em;
-    min-width: 7em;
-}
-.dropdown-item:hover, .dropdown-item:hover a {
-    color: #baf0ef;
-    background-color: #a2a2a2;
-}
-
-/* image position */
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-
-
-/* fonts */
-h1 {
-  font-family: 'BELLABOO', sans-serif;
-}
 h2 {
-  font-family: 'Gill Sans MT Condensed', sans-serif;
+  background-color: rgb(8, 255, 58);
+  border: 2px rgb(16,18,17);
+  padding: 20px
 }
-h3 {
-  font-family:'Plantagenet Cherokee', serif;
+
+/* Div */
+
+.class-title{
+  background-color: black;
+  width: 700px;
+  padding: 20px
+}
+
+.class-one{
+  background-color: rgb(53, 47, 233);
+  opacity: .9;
+  width: 700px;
+  padding: 20px
 
 }
-p {
-  font-family: 'Plantagenet Cherokee', serif;
+
+.class-two{
+  background-color: rgb(212, 38, 38);
+  opacity: .9;
+  width: 700px;
+  padding: 20px
+}
+
+.class-three{
+  position: inherit;
 }
