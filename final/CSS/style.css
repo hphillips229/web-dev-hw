@@ -3,6 +3,7 @@ body {
   background-image: url("../images/ground-1.jpg");
   color: rgb(23, 171, 52);
 }
+h1 {
   border: 1px solid black;
   margin: 25px 50px 75px 100px;
   background-color: lightblue;
