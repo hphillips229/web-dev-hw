@@ -17,3 +17,8 @@ h1 {
 {
   display: inline-block;
 }
+#body
+{
+  border-style: fill;
+  border-color: lightblue;
+}
