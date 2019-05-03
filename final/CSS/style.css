@@ -17,9 +17,8 @@ h1 {
 {
   display: inline-block;
 }
-#body
-.body-text
-{
+
+p {
   border-style: fill;
   border-color: lightblue;
   text-align: center;
