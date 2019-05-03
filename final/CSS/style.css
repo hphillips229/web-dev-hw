@@ -1,7 +1,9 @@
-header{
-  flex: : center
+#grease
+{
+  width:100%;
+  text-align: center;
 }
-
-div {
-  text-align:center;
+.menunav-barlink-style
+{
+  display: inline-block;
 }
