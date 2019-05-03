@@ -2,6 +2,9 @@ body {
   font-family: sans-serif;
   background-image: url("../images/ground-1.jpg");
   color: rgb(23, 171, 52);
+  width: flex;
+  padding: flex;
+  border: 5px solid grey;
 }
 div {
   border: 1px solid black;
