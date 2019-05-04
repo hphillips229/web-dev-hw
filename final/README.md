@@ -1,0 +1,4 @@
+13. Yes I have learned a insane amount of information on website design. I wish I could get it to look good and not like a windows 98 website with my code. It really has been a experience and feel this knowledge will come in handy in the future.
+14. Yes I learned all three. Some harder to use then and incorporate then others. My main is color around information.
+15. This was very hard, I put a lot of time trying to get my drop down menu to work as a physical drop down menu. Instead it does a drop down menu but is just
+presented already shown instead of requiring a action. I used the same website a before because I want to actually make a hair gel company named field grease with some of my buddies from  deployment. My big one ultimately is properly organizing your index from the begging being able to think ahead to what you are going to want to do. Other wise your are going to have to do a-lot of going back changing and sometimes entire rewriting of code. 
